@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there 
 간단한 자기소개 입니다.
 
 - 🔭 I’m currently working on ...
@@ -25,7 +25,7 @@
 
 <br/>
 
-### My github history
+### 📚 My github history
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Chanhook)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
