@@ -1,14 +1,8 @@
-### 👋 Hi there 
-간단한 자기소개 입니다.
+### 👋 안녕하세요. 백엔드 개발자 김찬혁입니다!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 저는 OOP, 클린 코드, 디자인 패턴에 관심이 많아요.
+- 🌱 저는 현재 자바와 스프링의 원리를 이해하고 학습하는 중이에요.
+- 👯 저는 협업을 통한 개발을 즐기는 편이에요.
 
 <br/>
 
@@ -28,6 +22,10 @@
 ### 📚 My github history
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Chanhook)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
+<br/><br/>
 
+<div align=center>
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChanhook&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+<div/>
