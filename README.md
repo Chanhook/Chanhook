@@ -19,6 +19,14 @@
 
 <br/>
 
+### 🚀 Activities
+
+- F-Lab Backend (2023.01 ~ ing)
+- 네이버 부스트캠프 AI Tech 3기 (2022.01 ~ 2022.06)
+- SW 마에스트로 12기 (2021.04 ~ 2021.11)
+
+<br/>
+
 ### 📚 My github history
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Chanhook)](https://github.com/anuraghazra/github-readme-stats)
 
